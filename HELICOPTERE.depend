@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1611611009 source:c:\users\david daudier\documents\doc jeux\oiseau volant\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+
